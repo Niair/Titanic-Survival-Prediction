@@ -27,7 +27,8 @@ Edit
 ├── titanic_data.ipynb    # Jupyter notebook containing full code
 ├── README.md             # Project documentation
 ├── insights.txt
-📊 Technologies Used
+
+## 📊 Technologies Used
 Python
 
 Jupyter Notebook
@@ -69,23 +70,18 @@ Prediction and Conclusion:
 
 Predict survival on new/unseen data.
 
-🚀 How to Run
+## 🚀 How to Run
 Clone this repository:
-
-bash
-Copy
-Edit
+```
 git clone https://github.com/your-username/titanic-survival-prediction.git
 cd titanic-survival-prediction
+
 Install required libraries:
 
-bash
-Copy
-Edit
+```
 pip install -r requirements.txt
+
 Open the Jupyter Notebook:
 
-bash
-Copy
-Edit
+```
 jupyter notebook titanic_data.ipynb
